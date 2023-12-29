@@ -17,3 +17,14 @@
 1. Appointments can be scheduled, and details can be retrieved when needed.
 1. The system allows for a smooth exit when the user is done with their tasks.
 
+# Note:
+> * The system utilizes sleep functions to create a visually appealing interface with delayed outputs.
+
+## Usage Instructions:
+* Execute the program in a Java environment.
+* Follow the on-screen instructions to navigate through the system.
+* Add patients and doctors before scheduling appointments for a comprehensive experience.
+
+## Disclaimer:
+> * This Hospital Management System is a simplified console application designed for educational purposes. It demonstrates basic functionalities and does not cover all aspects of a real-world hospital management system.
+
